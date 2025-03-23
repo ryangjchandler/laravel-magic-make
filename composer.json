@@ -1,18 +1,18 @@
 {
-    "name": "ryangjchandler/skeleton-php",
-    "description": "A template repository for PHP packages.",
+    "name": "ryangjchandler/laravel-magic-make",
+    "description": "Artisan `make` commands for all of your custom stubs, automagically configured for you.",
     "license": "MIT",
-    "readme": "https://github.com/ryangjchandler/skeleton-php/README.md",
+    "readme": "https://github.com/ryangjchandler/laravel-magic-make/README.md",
     "authors": [
         {
             "name": "Ryan Chandler",
             "email": "support@ryangjchandler.co.uk"
         }
     ],
-    "homepage": "https://github.com/ryangjchandler/skeleton-php",
+    "homepage": "https://github.com/ryangjchandler/laravel-magic-make",
     "autoload": {
         "psr-4": {
-            "RyanChandler\\Skeleton\\": "src"
+            "RyanChandler\\MagicMake\\": "src"
         }
     },
     "autoload-dev": {
